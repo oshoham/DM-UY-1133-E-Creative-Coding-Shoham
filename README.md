@@ -150,6 +150,8 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
                     <li>The Processing IDE</li>
                     <li>setup() / draw()</li>
                     <li>Pixels / Coordinate Systems</li>
+                    <li>Shapes</li>
+                    <li>Colors</li>
                 </ul>
             </td>
             <td>
@@ -184,10 +186,9 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>Shapes</li>
-                    <li>Colors</li>
                     <li>Data Types</li>
                     <li>Variables</li>
+                    <li>Commenting / Debugging</li>
                     <li>Mouse Interaction</li>
                     <li>Text</li>
                 </ul>
@@ -216,7 +217,6 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             <td>
                 <ul>
                     <li>Randomness</li>
-                    <li>Commenting / Debugging</li>
                     <li>Pseudo Code</li>
                     <li>Time</li>
                     <li>sin() / cos()</li>

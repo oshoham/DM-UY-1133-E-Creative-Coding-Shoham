@@ -6,6 +6,10 @@ Then, using shapes, lines, points and curves, take your paper portrait and reint
 
 Submit your sketch to [OpenProcessing](https://www.openprocessing.org/class/60310) under the `Portrait` collection. Label your sketch with your name in the format `Firstname_Portrait`.
 
+## Extension
+
+Turn your code portrait into a "face generator" by adding at least 2 variable elements that change each time your sketch is run. These could be facial expression, appearance, gender, artistic style, etc.
+
 ## Inspiration
 
 ![](https://user-images.githubusercontent.com/2325893/64196445-e15aae00-ce51-11e9-9796-2f4d6cc32744.jpg)
