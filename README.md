@@ -188,9 +188,8 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
                 <ul>
                     <li>Data Types</li>
                     <li>Variables</li>
-                    <li>Commenting / Debugging</li>
+                    <li>println()</li>
                     <li>Mouse Interaction</li>
-                    <li>Text</li>
                 </ul>
             </td>
             <td rowspan="2">
@@ -216,10 +215,10 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>Randomness</li>
-                    <li>Pseudo Code</li>
-                    <li>Time</li>
+                    <li>map() / constrain()</li>
+                    <li>frameCount</li>
                     <li>sin() / cos()</li>
+                    <li>random()</li>
                     <li>noise()</li>
                 </ul>
             </td>
