@@ -219,7 +219,6 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
                     <li>frameCount</li>
                     <li>sin() / cos()</li>
                     <li>random()</li>
-                    <li>noise()</li>
                 </ul>
             </td>
         </tr>
@@ -238,8 +237,7 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
                     <li>Conditionals</li>
                     <li>Mouse Clicks</li>
                     <li>Key Presses</li>
-                    <li>map()</li>
-                    <li>constrain()</li>
+                    <li>noise()</li>
                 </ul>
             </td>
             <td rowspan="2">
