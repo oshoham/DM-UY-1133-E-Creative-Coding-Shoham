@@ -1,6 +1,6 @@
 # Sketch #3: Visualizing Time
 
-Create a non-standard clock using Processing. Your clock must "tell time" using a novel graphic concept. Think of creative ways to represent time and consider different types of time (lunar, geological, historical, biological, screen-time, etc.). You'll probably want to use Processing's `hour()`, `minute()`, `second()`, and `millis()` functions, but you're also welcome use `day()` and `month()` to make a clock that changes with the time of year. Your sketch must include **custom functions**.
+Create a non-standard clock using Processing. Your clock must "tell time" using a novel graphic concept. Think of creative ways to represent time and consider different types of time (lunar, geological, historical, biological, screen-time, etc.). You'll probably want to use Processing's [`hour()`](https://processing.org/reference/hour_.html), [`minute()`](https://processing.org/reference/minute_.html), [`second()`](https://processing.org/reference/second_.html), and [`millis()`](https://processing.org/reference/millis_.html) functions, but you're also welcome use [`day()`](https://processing.org/reference/day_.html) and [`month()`](https://processing.org/reference/month_.html) to make a clock that changes with the time of year. Your sketch must include **if statements** and **custom functions**.
 
 Submit your sketch to [OpenProcessing](https://www.openprocessing.org/class/60310) under the `Visualizing Time` collection. Label your sketch with your name in the format `Firstname_Clock`.
 

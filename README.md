@@ -237,7 +237,6 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
                     <li>Conditionals</li>
                     <li>Mouse Clicks</li>
                     <li>Key Presses</li>
-                    <li>noise()</li>
                 </ul>
             </td>
             <td rowspan="2">
@@ -263,9 +262,8 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             <td>
                 <ul>
                     <li>Loops</li>
-                    <li>Functions</li>
-                    <li>Scoping</li>
                     <li>Arrays</li>
+                    <li>Functions</li>
                 </ul>
             </td>
         </tr>
