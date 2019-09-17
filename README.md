@@ -234,7 +234,7 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>Conditionals</li>
+                    <li>if / else if / else</li>
                     <li>Mouse Clicks</li>
                     <li>Key Presses</li>
                 </ul>
@@ -261,8 +261,8 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
+                    <li>&& and || Operators</li>
                     <li>Loops</li>
-                    <li>Arrays</li>
                     <li>Functions</li>
                 </ul>
             </td>
@@ -279,8 +279,8 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>Objects</li>
-                    <li>Arrays of Objects</li>
+                    <li>Matrix Transformations</li>
+                    <li>Arrays</li>
                 </ul>
             </td>
             <td rowspan="2">
@@ -304,10 +304,7 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>translate()</li>
-                    <li>rotate()</li>
-                    <li>scale()</li>
-                    <li>pushMatrix() / popMatrix()</li>
+                    <li>Objects</li>
                 </ul>
             </td>
         </tr>
