@@ -35,7 +35,7 @@ void draw() {
   yPos += ySpeed;
 
   // bounce off the left and right walls of the window
-  if ( xPos <= radius || xPos >= width - radius) {
+  if (xPos <= radius || xPos >= width - radius) {
     xSpeed *= -1;
   }
 

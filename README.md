@@ -279,8 +279,8 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
+                    <li>Functions Pt. 2</li>
                     <li>Matrix Transformations</li>
-                    <li>Arrays</li>
                 </ul>
             </td>
             <td rowspan="2">
@@ -305,6 +305,7 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             <td>
                 <ul>
                     <li>Objects</li>
+                    <li>Arrays</li>
                 </ul>
             </td>
         </tr>

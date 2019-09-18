@@ -1,5 +1,5 @@
 // An if statement lets you run blocks of code only when certain conditions are met.
-// These conditions must be boolean expresions that evaluate to true or false.
+// These conditions must be boolean expressions that evaluate to true or false.
 
 void setup() {
   size(500, 500);
