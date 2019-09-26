@@ -4,7 +4,11 @@ Write a program that presents an ever-changing, imaginative "landscape". Populat
 
 Consider: foreground, middleground, and background "layers"; variation at the macro-scale, meso-scale, and micro-scale; natural and human-made features; utopia, dystopia, and heterotopia; and the potential for _surprise_, through the placement of _infrequent_ features.
 
-Your sketch must use **custom classes, arrays, and matrix transformations**.
+Your sketch must use **classes, arrays, and matrix transformations**. Here's an [example](https://www.openprocessing.org/sketch/760010) of what that might look like:
+
+[![](https://user-images.githubusercontent.com/2325893/65722757-eee30c80-e07a-11e9-87b2-da3de089bf58.png)](https://www.openprocessing.org/sketch/760010)
+
+Your landscape should not resemble this example at all if you choose to base your code off of it.
 
 Submit your sketch to [OpenProcessing](https://www.openprocessing.org/class/60310) under the `Generative Landscape` collection. Label your sketch with your name in the format `Firstname_Landscape`.
 
