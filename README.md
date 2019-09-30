@@ -321,10 +321,8 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>Intro to p5.js</li>
-                    <li>Processing vs. p5.js</li>
-                    <li>HTML / CSS / Canvas Overview</li>
-                    <li>Embedding a p5.js Sketch on a Webpage</li>
+                    <li>Objects and Interaction</li>
+                    <li>Communication Between Objects</li>
                 </ul>
             </td>
             <td rowspan="2">
@@ -335,10 +333,9 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td rowspan="2">
                 <ul>
-                    <li><a href="https://github.com/processing/p5.js/wiki/Processing-transition" target="_blank">Transitioning from Processing to p5.js</a></li>
-                    <li>Make: Getting Started with p5.js Ch. 8 - 10</li>
+                    <li>Learning Processing Ch. 8, Ch. 15 (Sections 1 - 2)</li>
                     <li>
-                        The Coding Train <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA" target="_blank">Programming with p5.js</a> tutorials (optional)
+                        The Coding Train <a href="https://www.youtube.com/watch?v=i2C1hrJMwz0" target="_blank">Objects and Images</a> tutorial (optional)
                     </li>
                 </ul>
             </td>
@@ -349,7 +346,8 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>Object-Oriented Programming (OOP) / Classes in p5.js</li>
+                    <li>Images</li>
+                    <li>Objects and Images</li>
                 </ul>
             </td>
         </tr>
@@ -360,7 +358,7 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             <td align="center"><b>Readings</b></td>
         </tr>
         <tr>
-            <td colspan="4"><i>Note: I'll be out of town this week and will arrange for a substitute to teach this class on 10/7.</i></td>
+            <td colspan="4"><i>Note: I'll be out of town on 10/7 and <a href="http://www.dominicbarrett.com/">Dominic Barrett</a> will substitute for me.</i></td>
         </tr>
         <tr>
             <td align="center">
@@ -368,9 +366,10 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>Images</li>
-                    <li>Video</li>
                     <li>Sound</li>
+                    <li>Sample Playback</li>
+                    <li>Synthesis</li>
+                    <li>Audio Analysis</li>
                 </ul>
             </td>
             <td rowspan="2">
@@ -381,10 +380,11 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td rowspan="2">
                 <ul>
-                    <li>Make: Getting Started with p5.js Ch. 7, Ch. 13 (1st half)</li>
-                    <li><a href="https://p5js.org/reference/#/libraries/p5.sound" target="_blank">p5.js-sound Reference</a></li>
+                    <li>Learning Processing, Ch. 20</li>
+                    <li><a href="https://processing.org/reference/libraries/sound/" target="_blank">The Processing Sound library reference</a></li>
+                    <li><a href="https://processing.org/tutorials/sound/">Processing Sound tutorial</a></li>
                     <li>
-                        The Coding Train <a href="https://www.youtube.com/watch?v=i2C1hrJMwz0" target="_blank">Objects and Images</a> and <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW" target="_blank">Sound</a>  tutorials (optional)
+                        The Coding Train <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW" target="_blank">Sound</a> tutorials (optional)
                     </li>
                 </ul>
             </td>
@@ -395,7 +395,7 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>1 - 1 Feedback / Help with Midterm Projects (Video Chat)</li>
+                    <li>Work on Midterm Projects In-Class</li>
                 </ul>
             </td>
         </tr>
@@ -418,11 +418,17 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td rowspan="2">
                 <ul>
+                    <li><a href="https://github.com/processing/p5.js/wiki/Processing-transition" target="_blank">Transitioning from Processing to p5.js</a></li>
+                    <li>Make: Getting Started With p5.js Ch. 1 - 4</li>
+                </ul>
+            </td>
+            <!-- <td rowspan="2">
+                <ul>
                     <li>
                         The Coding Train <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV" target="_blank">Git and GitHub for Poets</a>
                     </li>
                 </ul>
-            </td>
+            </td> -->
         </tr>
         <tr>
             <td align="center">
@@ -431,8 +437,7 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             <td>
                 <ul>
                     <li>Midterm Presentations Pt. 2</li>
-                    <li>Git and GitHub</li>
-                    <li>Command Line</li>
+                    <li>Intro to p5.js and the web</li>
                 </ul>
             </td>
         </tr>
