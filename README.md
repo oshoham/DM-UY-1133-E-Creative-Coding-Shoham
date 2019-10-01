@@ -328,7 +328,7 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             <td rowspan="2">
                 <b>Due 10/15</b>
                 <ul>
-                    <li>Midterm Project</li>
+                    <li><a href="Week_05/Midterm.md">Midterm Project</a></li>
                 </ul>
             </td>
             <td rowspan="2">
@@ -375,7 +375,7 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             <td rowspan="2">
                 <b>Due 10/15</b>
                 <ul>
-                    <li>Midterm Project</li>
+                    <li><a href="Week_05/Midterm.md">Midterm Project</a></li>
                 </ul>
             </td>
             <td rowspan="2">
