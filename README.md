@@ -463,12 +463,12 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             <td rowspan="2">
                 <b>Due 10/28</b>
                 <ul>
-                    <li>Sketch #5</li>
+                    <li><a href="Week_08/Sketch_5.md">Sketch #5: Concrete Poetry</a></li>
                 </ul>
             </td>
             <td rowspan="2">
                 <ul>
-                    <li>Make: Getting Started with p5.js Ch. 7, Ch. 13 (2nd half)</li>
+                    <li>Make: Getting Started with p5.js Ch. 13 (2nd half)</li>
                     <li><a href="https://p5js.org/reference/#/libraries/p5.dom" target="_blank">p5.dom Reference</a></li>
                     <li>
                         The Coding Train <a href="https://thecodingtrain.com/Tutorials/8-html-css-dom/index.html" target="_blank">HTML / CSS / DOM</a> tutorials (optional)
