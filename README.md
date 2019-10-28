@@ -502,23 +502,27 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>Webcam Video Capture</li>
-                    <li>Image Processing</li>
+                    <li>Data Visualization</li>
+                    <li>JSON</li>
                 </ul>
             </td>
             <td rowspan="2">
                 <b>Due 11/4</b>
                 <ul>
-                    <li>Sketch #6</li>
+                    <li><a href="Week_09/Sketch_6.md">Sketch #6: Data Visualization</a></li>
                 </ul>
             </td>
             <td rowspan="2">
                 <ul>
-                    <li><a href="http://www.smoothware.com/danny/" target="_blank">Danny Rozin's Mirrors</a></li>
-                    <li>Learning Processing Ch. 15 - 16</li>
                     <li>
-                        The Coding Train <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig" target="_blank">Video and Pixels</a> tutorials (optional)
+                        <a href="http://blog.blprnt.com/blog/blprnt/art-and-the-api">Art and the API</a> by Jer Thorp
                     </li>
+                    <li>Make: Getting Started with p5.js Ch. 12</li>
+                    <li>
+                        The Coding Train <a href="https://thecodingtrain.com/Tutorials/10-working-with-data/" target="_blank">Working with Data</a> tutorials (optional)
+                    </li>
+                    <li><a href="https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON">p5.js tutorial on loading external data</a></li>
+                    <li><a href="https://github.com/ITPNYU/ICM-2018/wiki/Data-Sources" target="_blank">Potential Data Sources</a></li>
                 </ul>
             </td>
         </tr>
@@ -528,8 +532,7 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>Working with Pixels</li>
-                    <li>Software Mirrors</li>
+                    <li>APIs</li>
                 </ul>
             </td>
         </tr>
@@ -548,8 +551,8 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>Data Visualization</li>
-                    <li>JSON</li>
+                    <li>Webcam Video Capture</li>
+                    <li>Image Processing</li>
                 </ul>
             </td>
             <td rowspan="2">
@@ -565,11 +568,11 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td rowspan="2">
                 <ul>
-                    <li>Make: Getting Started with p5.js Ch. 12</li>
+                    <li><a href="http://www.smoothware.com/danny/" target="_blank">Danny Rozin's Mirrors</a></li>
+                    <li>Learning Processing Ch. 15 - 16</li>
                     <li>
-                        The Coding Train <a href="https://thecodingtrain.com/Tutorials/10-working-with-data/" target="_blank">Working with Data</a> tutorials (optional)
+                        The Coding Train <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig" target="_blank">Video and Pixels</a> tutorials (optional)
                     </li>
-                    <li><a href="https://github.com/ITPNYU/ICM-2018/wiki/Data-Sources" target="_blank">Potential Data Sources</a></li>
                 </ul>
             </td>
         </tr>
@@ -579,7 +582,8 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>APIs</li>
+                    <li>Working with Pixels</li>
+                    <li>Software Mirrors</li>
                 </ul>
             </td>
         </tr>
