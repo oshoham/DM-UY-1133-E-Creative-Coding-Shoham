@@ -558,17 +558,16 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             <td rowspan="2">
                 <b>Due 11/11</b>
                 <ul>
-                    <li>Sketch #7</li>
-                    <li>Research Post #2</li>
+                    <li><a href="Week_10/Sketch_7.md">Sketch #7</a></li>
+                    <li><a href="Week_10/Research_Post_2.md">Research Post #2</a></li>
                 </ul>
                 <b>Due 11/13</b>
                 <ul>
-                    <li>Final Project Proposal</li>
+                    <li><a href="Week_10/Final_Project_Proposal.md">Final Project Proposal</a></li>
                 </ul>
             </td>
             <td rowspan="2">
                 <ul>
-                    <li><a href="http://www.smoothware.com/danny/" target="_blank">Danny Rozin's Mirrors</a></li>
                     <li>Learning Processing Ch. 15 - 16</li>
                     <li>
                         The Coding Train <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig" target="_blank">Video and Pixels</a> tutorials (optional)
@@ -582,8 +581,8 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
+                    <li>Video</li>
                     <li>Working with Pixels</li>
-                    <li>Software Mirrors</li>
                 </ul>
             </td>
         </tr>
