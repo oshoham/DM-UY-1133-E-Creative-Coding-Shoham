@@ -598,21 +598,16 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td>
                 <ul>
-                    <li>Face Tracking</li>
-                    <li>ml5.js and PoseNet</li>
+                    <li>Mobile Devices</li>
                 </ul>
             </td>
             <td rowspan="2">
                 <b>Due 11/18</b>
                 <ul>
-                    <li>Sketch #8</li>
+                    <li><a href="Week_11/Sketch_8.md">Sketch #8</a></li>
                 </ul>
             </td>
             <td rowspan="2">
-                <ul>
-                    <li>Golan Levin's lecture notes on <a href="https://github.com/golanlevin/lectures/tree/master/lecture_face">Faces in New Media Art</a> and <a href="https://github.com/golanlevin/lectures/tree/master/lecture_expanded_body">Extrapolating the Dynamic Human Form</a></li>
-                    <li>The Coding Train <a href="https://www.youtube.com/watch?v=EA3-k9mnLHs" target="_blank">"Hour of Code" with PoseNet</a> tutorial</li>
-                </ul>
             </td>
         </tr>
         <tr>
