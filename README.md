@@ -633,10 +633,10 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             <td>
                 <ul>
                     <li>Final Project Check-in</li>
-                    <li>Basic Physical Computing</li>
-                    <li>Arduino</li>
-                    <li>Serial Communication</li>
-                    <li>Sensors</li>
+                    <li>WebGL</li>
+                    <li>3D Geometry</li>
+                    <li>Textures</li>
+                    <li>Perspective and Orthographic Cameras</li>
                 </ul>
             </td>
             <td rowspan="2">
@@ -647,9 +647,9 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             </td>
             <td rowspan="2">
                 <ul>
-                    <li><a href="https://github.com/p5-serial/p5.serialcontrol">p5.serialcontrol</a></li>
-                    <li><a href="https://github.com/p5-serial/p5.serialport">p5.serialport</a></li>
-                    <li>TBD</li>
+                    <li><a href="https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5">Getting started with WebGL in p5.js</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bPhi8sS1hHJ77n3zRO9FR_">The Coding Train WebGL in p5.js tuturials</a></li>
+                    <li><a href="https://itp-xstory.github.io/p5js-shaders">Shaders in p5.js</a></li>
                 </ul>
             </td>
         </tr>
@@ -660,9 +660,8 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
             <td>
                 <ul>
                     <li>Final Project Check-in</li>
-                    <li>Physical Computing Cont'd.</li>
-                    <li>WebMIDI</li>
-                    <li>OpenSoundControl (OSC)</li>
+                    <li>Lighting and Materials</li>
+                    <li>Shaders</li>
                 </ul>
             </td>
         </tr>
@@ -740,6 +739,8 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
                 <ul>
                     <li>Final Project Check-in</li>
                     <li>Beyond Processing / p5.js</li>
+                    <li>WebMIDI</li>
+                    <li>OpenSoundControl (OSC)</li>
                 </ul>
             </td>
         </tr>
