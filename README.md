@@ -724,11 +724,13 @@ Lateness and unexcused absences will significantly impact your grade. **Two unex
                 <b>Due 12/9</b>
                 <ul>
                     <li>Work on your final project</b>
+                    <li><a href="Week_14/Final_Project_Presentation.md">Prepare your final project presentation</a></li>
                 </ul>
             </td>
             <td rowspan="2">
                 <ul>
-                    <li>TBD</li>
+                    <li><a href="https://github.com/djipco/webmidi">WebMidi.js</a></li>
+                    <li><a href="https://github.com/colinbdclark/osc.js/">osc.js</a></li>
                 </ul>
             </td>
         </tr>
